@@ -4,5 +4,6 @@
 	<classpathentry kind="lib" path="C:/Users/Jose Maria/Desktop/Eclipseprojects/detector-laser/lib/pi4j-core.jar"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/Jose Maria/Desktop/Eclipseprojects/detector-laser/lib/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jose Maria/Desktop/twitter4j/lib/twitter4j-core-4.0.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
